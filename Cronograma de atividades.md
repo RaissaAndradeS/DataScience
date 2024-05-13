@@ -40,11 +40,11 @@
 |CCDD - 034|Python básico - Exercício 10|✅|13/05/24|
 |CCDD - 035|Python básico - Módulos|✅|13/05/24|
 |CCDD - 036|Python básico - Exercicio 11|✅|13/05/24|
-|CCDD - 037|Python básico - Funções|||
-|CCDD - 038|Python básico - Exercicio 12|||
-|CCDD - 039|Python básico - Manipulação de Arquivos|||
-|CCDD - 040|Python básico - Exercicio 13|||
-
+|CCDD - 037|Python básico - Funções|✅|13/05/24|
+|CCDD - 038|Python básico - Exercicio 12|✅|13/05/24|
+|CCDD - 039|Python básico - Manipulação de Arquivos|✅|13/05/24|
+|CCDD - 040|Python básico - Exercicio 13|✅|13/05/24|
+|CCDD - 041|Python básico - Projeto Final|✅|13/05/24|
 
 
 
