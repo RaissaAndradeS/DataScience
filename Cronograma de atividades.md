@@ -30,7 +30,12 @@
 |CCDD - 024|Python Básico - Números Reais|✅| 07/05/24|
 |CCDD - 025|Python Básico - Exercício 7|✅| 07/05/24|
 |CCDD - 026|Python Básico - Números Complexos|✅| 07/05/24|
-|CCDD - 027|Python básico - Listas| ||
+|CCDD - 027|Python básico - Listas|✅|13/05/24|
+|CCDD - 028|Python básico - Exercício 8|✅|13/05/24|
+|CCDD - 029|Python básico - Tuplas|✅|13/05/24|
+|CCDD - 030|Python básico - Dicionários|✅|13/05/24|
+|CCDD - 031|Python básico - Exercício 9|✅|13/05/24|
+|CCDD - 032|Python básico - Sets|✅|13/05/24|
 
 
 
@@ -44,3 +49,4 @@
 |--------|-----|-----|
 | 1.0 |02/05/2024| [Raissa Andrade](https://github.com/RaissaAndradeS)|
 | 1.1 |07/05/2024| [Raissa Andrade](https://github.com/RaissaAndradeS)|
+| 1.2 |13/05/2024| [Raissa Andrade](https://github.com/RaissaAndradeS)|
