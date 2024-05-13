@@ -1,0 +1,3 @@
+- Baixar e instalar o Anaconda;
+- conda activate ambiente-teste3 (meu caso);
+- Jupyter Notebook; 
