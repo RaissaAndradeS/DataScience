@@ -36,6 +36,14 @@
 |CCDD - 030|Python básico - Dicionários|✅|13/05/24|
 |CCDD - 031|Python básico - Exercício 9|✅|13/05/24|
 |CCDD - 032|Python básico - Sets|✅|13/05/24|
+|CCDD - 033|Python básico - Strings|✅|13/05/24|
+|CCDD - 034|Python básico - Exercício 10|✅|13/05/24|
+|CCDD - 035|Python básico - Módulos|✅|13/05/24|
+|CCDD - 036|Python básico - Exercicio 11|✅|13/05/24|
+|CCDD - 037|Python básico - Funções|||
+|CCDD - 038|Python básico - Exercicio 12|||
+|CCDD - 039|Python básico - Manipulação de Arquivos|||
+|CCDD - 040|Python básico - Exercicio 13|||
 
 
 
