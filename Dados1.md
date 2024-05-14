@@ -60,5 +60,32 @@ Dados são representações computacionais usadas para guardar um conteúdo quan
 
 - Os dados tabulares/vetores ainda são classificados de acordo com o tipo de entidade descrito e sua relação com outros dados. 
 
+### Quantitativo VS Qualitativo 
 
+- __Qualitativos__: Descrevem qualidades ou características.
+    - Coletado por meio de questionários, entrevistas ou observação e frequentemente aparece na forma de narrativa.
+    - Ex: Anotações feitas dutante um grupo de foco sobre a qualidade da comida no Cafe ou um questionário aberto.
+    - Pode ser difícil de medir e analisar com precisão.
+    - Pode estar na forma de palavras descritivas que podem ser examinadas quanto a padrões ou significado.
+
+- __Quantitativos__: São usados quando está se tentando quantificar um problema ou abordar o "o quê" ou "quantos" aspectos de uma questão de pesquisa.
+    - São dados que podem ser contados ou comparados em uma escala numérica.
+    - São geralmente coletados por meio de instrumentos, como um questionário que inclui uma escala de classificação ou um termômetro para coletar dados meteorológicos.
+
+### Nominal, Ordinal, Discreto e Contínuo
+
+- __Nominal__: Conjunto de valores que não possuem uma ordem natural. Ex: A cor de um objeto.
+- __Ordinal__: Valores que têm uma ordem natural, embora mantendo sua classe de valores. Ex: O sistema de classificação durante a classificação dos candidatos em um teste em que A+ é melhor do que a nota B.
+- __Discreto__: Números inteiros são colocados nesta categoria. Ex: O número de alto-falantes no telefone, câmeras, núcleos no processador, o número de sims suportados
+- __Contínuo__: Os números fracionários são considerados valores contínuos. Eles podem assumir a forma de frequência operacional dos processadores, a versão Android do telefone, frequência wi-fi, temperatura dos núcleos e assim por diante.
+
+### Não dependente VS dependente
+
+- __Dados orientados para não dependência__: Refere-se tipo de dados simples, como multi-dimensionais ou dados de textos.
+    - Mais simples e mais comumente encontrados.
+    - Registros de dados não possuem dependências especificadas entre os itens de dados ou os atributos.
+    - Ex: Conjunto de daods demográficos com registros sobre indivíduos contendo sua idade, sexo e código postal.
+- __Dados orientados a dependência__: Podem existir relacionamentos implícitos ou explícitos entre itens de dados.
+    - Ex: Conjunto de dados de rede social contém um conjunto de vértices (itens de dados) que são conectados por um conjunto de arestas (relacionamentos).
+    - Ex: Série temporeal contém dependências implícitas, como dois sucessivos valores coletados de um sensor provavelmente estão relacionados entre si.
 
