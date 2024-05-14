@@ -89,3 +89,69 @@ Dados são representações computacionais usadas para guardar um conteúdo quan
     - Ex: Conjunto de dados de rede social contém um conjunto de vértices (itens de dados) que são conectados por um conjunto de arestas (relacionamentos).
     - Ex: Série temporeal contém dependências implícitas, como dois sucessivos valores coletados de um sensor provavelmente estão relacionados entre si.
 
+
+## <center>Armazenamento dos Dados</center>
+
+- São armazenados em diferentes formatos em algum local físico e podem ser acessados diretamente ou por meio de protocolos de conexão Web para o caso de armazenamento remoto.
+    - Som: wav, mp3, ogg
+    - Imagem: png, jpeg
+    - Vídeo: mp4, mkv, avi
+    - Texto: txt, docx, pdf
+    - Tabela: csv, xlsx, parquet
+    - Espacial: shp, kmv
+    - Estatíco: dta, xport
+    - Interchange: json, ubj
+
+Geralmente são armazenados em um disco rígido, e pode estar em diferentes locais, no computador pessoal, em um servidor ou um Data Warehouse (conjunto de servidores conectados entre si) e esses dois últimos geralmente se comunica por meio de uma conexão web, que pode ser feita a partir de uma série de protocolos. Sendo eles: http/https, ftp, tcp/ip, imap, smtp ou udp. 
+
+
+## <center>Aquisição de Dados</center>
+
+- No contexto de mineração de daods, a aquisição corresponde ao processo de extração dos dados coletados para o sistema que fará a limpeza e processamento desses dados.
+
+### Fontes Públicas
+    - Nacionais:
+
+        − https://www.gov.br/pt-br/orgaos-do-governo
+        − https://ftp.ibge.gov.br/
+        − https://geoftp.ibge.gov.br/
+        − https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/inep-data
+        − https://www.gov.br/anatel/pt-br/dados
+        − https://dadosabertos.bcb.gov.br/
+
+    - Internacionais:
+
+        − http://data.worldbank.org/
+        − https://ec.europa.eu/eurostat/en/web/lfs/statistics-illustrated
+        − https://archive.org/web/
+
+    - Empresas:
+
+        − http://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/
+        − https://www.google.com/publicdata/directory?dl=pt_PT&hl=pt_PT
+        − http://aws.amazon.com/public-data-sets/
+        − https://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=75
+        − https://www.kaggle.com/datasets
+
+### Fontes Proprietárias
+    - SQL Server
+    - Oracle
+    - Azure 
+
+### API(aplication programming interface)
+    - Google(https://developers.google.com/apis-explorer)
+        − Geocoding (https://geopy.readthedocs.io/en/stable/)
+        − Search (https://developers.google.com webmaster-tools/search-console-api-original/v3/quickstart/quickstart-python)
+    − Gmail (https://developers.google.com/gmail/api/quickstart/python)
+    - Twitter (https://developer.twitter.com/en/docs/twitter-api/tools-and-libraries)
+    - Receita Federal (https://www.gov.br/conecta/catalogo/apis/consulta-cnpj/swagger_view)
+    - Correios (https://pypi.org/project/pycep-correios/)
+    - Bacen (https://dadosabertos.bcb.gov.br/dataset/sistema-de-registro-de-operacoes-de-credito-com-o-setor-publico-cadip)
+    - Yahoo Finance (https://pypi.org/project/yfinance/)
+    - Open Weather (https://rapidapi.com/blog/openweathermap-api-overview/python/)
+
+### Web Scrapping 
+    - https://docs.python.org/3/library/urllib.html
+    - https://docs.python-requests.org/en/master/
+    - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+    - https://selenium-python.readthedocs.io/
