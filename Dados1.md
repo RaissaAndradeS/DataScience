@@ -155,3 +155,31 @@ Geralmente são armazenados em um disco rígido, e pode estar em diferentes loca
     - https://docs.python-requests.org/en/master/
     - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
     - https://selenium-python.readthedocs.io/
+
+
+## <center>Limpeza de Dados</center>
+
+- É o processo de correção/remoção de dados e normalizamos variáveis de forma a construir um padrão de estrutura de informação a ser utilizado na ferramenta.
+- A limpeza de dados é o processo de corrigir ou remover dados incorretos, corrompidos, formatados incorretamente, duplicados ou incompletos de um conjunto de dados.
+- Ao combinar várias fontes de dados, existem muitas oportunidade para os dados serem duplicados ou rotulados incorretamente.
+- Se os dados estiverem incorretos, os resultados e algoritmos não são confiáveis, embora possam parecer corretos.
+- Não existe uma maneira absoluta de prescrever as etapas exatas no processo de limpeza de dados porque os processos varuam de conjunto de dados para conjunto de dados:
+- Etapas:
+    - Remoção de duplicatas
+    - Remoção de observações irrelevantes
+    - Correção de erros estruturais
+    - Remoção de outliers 
+    - Ajustes de valores nulos (Um dos principais)
+
+
+## <center>Processamento / Transformação de Dados </center>
+
+- Consiste no processo de transformação e conversão de dados entre diferentes estruturas e formatos, com o objetivo de facilitar o acesso e homogeneizar o conceito de determinados campos.
+- A limpeza dos dados é o processo que remove dados que não pertencem ao seu conjunto de dados, enquanto que a transformação de dados é o processo de concersão de dados de um formato ou estrutura em outro.
+- As organizações que usam data warehouses locais geralmente usam um processo de ETL (extrair, transformar, carregar).
+- A transformação de dados pode ser construtiva(adicionar, copiar e replicar dados), destrutiva(excluir campos e registros), estética(padronizar saudações ou nomes de ruas) ou estrutural(renomear, mover e combinar colunas em um banco de dados).
+- Benefícios:
+    - Os dados transformados podem ser mais fáceis de usar tanto para humanos quanto para computadores.
+    - Os dados devidamente formatados e validados melhoram a qualidade dos daods e protegem os aplicativos de possíveis minas terrestres, como valores nulos, duplicatas inesperadas, indexação incorreta e formatos incompatíveis.
+    - A transformação de dados facilita a compatibilidade entre aplicativos, sistemas e tipos de dados.
+- Ferramentas de limpeza, há varias, como pandas, rudderstack, apache pig.
