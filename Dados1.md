@@ -183,3 +183,4 @@ Geralmente são armazenados em um disco rígido, e pode estar em diferentes loca
     - Os dados devidamente formatados e validados melhoram a qualidade dos daods e protegem os aplicativos de possíveis minas terrestres, como valores nulos, duplicatas inesperadas, indexação incorreta e formatos incompatíveis.
     - A transformação de dados facilita a compatibilidade entre aplicativos, sistemas e tipos de dados.
 - Ferramentas de limpeza, há varias, como pandas, rudderstack, apache pig.
+

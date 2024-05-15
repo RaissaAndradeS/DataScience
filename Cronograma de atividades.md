@@ -46,7 +46,10 @@
 |CCDD - 040|Python básico - Exercício 13|✅|13/05/24|
 |CCDD - 041|Python básico - Projeto Final|✅|13/05/24|
 |CCDD - 042|Manipulação de dados - Introdução à Dados|✅|14/05/24|
-
+|CCDD - 043|Manipulação de dados - Executar pelo Colab|✅|15/05/24|
+|CCDD - 044|Manipulação de dados - Executar localmente|✅|15/05/24|
+|CCDD - 045|Manipulação de dados - Completo vs Amostral|✅|15/05/24|
+|CCDD - 046|Manipulação de dados - Instalação de Bibliotecas|✅|15/05/24|
 
 
 
