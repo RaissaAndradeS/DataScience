@@ -50,6 +50,10 @@
 |CCDD - 044|Manipulação de dados - Executar localmente|✅|15/05/24|
 |CCDD - 045|Manipulação de dados - Completo vs Amostral|✅|15/05/24|
 |CCDD - 046|Manipulação de dados - Instalação de Bibliotecas|✅|15/05/24|
+|CCDD - 047|Manipulação de dados - Introdução à estrutura de dados|✅|15/05/24|
+|CCDD - 048|Manipulação de dados - Numpy - Criação|✅|15/05/24|
+|CCDD - 046|Manipulação de dados - Numpy - Exercício 1 |✅|15/05/24|
+
 
 
 
