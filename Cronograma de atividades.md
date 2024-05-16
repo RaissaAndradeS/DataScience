@@ -52,7 +52,14 @@
 |CCDD - 046|Manipulação de dados - Instalação de Bibliotecas|✅|15/05/24|
 |CCDD - 047|Manipulação de dados - Introdução à estrutura de dados|✅|15/05/24|
 |CCDD - 048|Manipulação de dados - Numpy - Criação|✅|15/05/24|
-|CCDD - 046|Manipulação de dados - Numpy - Exercício 1 |✅|15/05/24|
+|CCDD - 049|Manipulação de dados - Numpy - Exercício 1 |✅|15/05/24|
+|CCDD - 050|Manipulação de dados - Numpy - Tipagem |✅|16/05/24|
+|CCDD - 051|Manipulação de dados - Numpy - Exercício 2 |✅|16/05/24|
+|CCDD - 052|Manipulação de dados - Numpy - Indexação |✅|16/05/24|
+|CCDD - 053|Manipulação de dados - Numpy - Exercício 3 |✅|16/05/24|
+|CCDD - 054|Manipulação de dados - Numpy - Mutabilidade |✅|16/05/24|
+|CCDD - 055|Manipulação de dados - Numpy - Exercício 4 |✅|16/05/24|
+
 
 
 
